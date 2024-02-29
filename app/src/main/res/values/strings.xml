@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="add_product">Añadir nuevo articulo</string>
+    <string name="name_hint">Nombre del articulo</string>
+    <string name="price_hint">Precio del articulo</string>
+    <string name="save">Guardar producto</string>
+    <string name="cancel">Cancelar</string>
+    <string name="total">Valor de todos los articulos</string>
+    <string name="default_price">$0</string>
+    <string name="name">Nombre:</string>
+    <string name="price">Precio:</string>
+    <string name="delete">Eliminar</string>
+</resources>
